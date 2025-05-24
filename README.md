@@ -19,8 +19,8 @@
 ## Linguagens em aprendizado  
 <span>
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline;">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/swift/swift.png" alt="Swift logo" width="80" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/swift/swift.png" alt="Swift logo" width="40" height="30" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="30"/>
 </span>  
 
 ## Meios de contato
