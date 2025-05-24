@@ -1,8 +1,8 @@
 ## Olá, tudo bem? 👋
 
 - 🔭 Faço Engenharia de Software.
-- 🎒 Estudo na UniCEUB.
-- 📚 Estou estudando algumas linguagens de programação.
+- 🎒 Estudo na UCB.
+- 📚 Estou estudando diferentes linguagens de programação.
 - 🖥️ Sempre em busca de aprender algo novo! 
 
 
@@ -21,8 +21,8 @@
 
 ## Meios de contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabxnz)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabxnz__)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-beatriz-caldeira-faulin-796619364/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anafaulin/)
 
 
 
